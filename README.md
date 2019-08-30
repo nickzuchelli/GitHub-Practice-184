@@ -32,7 +32,7 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
-
+| Nicholas Zuchelli | nickzuchelli | <https://nickzuchelli.github.io/Stat-184/> |
 <br>
 
 # Integration of RStudio with Git
